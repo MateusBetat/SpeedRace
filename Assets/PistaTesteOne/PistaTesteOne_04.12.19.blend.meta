@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 7761c81e0b832ba4bbd92c3c634f9cc4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Loop
+    100002: Loop.001
+    100004: NurbsPath
+    100006: //RootNode
+    100008: Loop.002
+    100010: Barreira
+    100012: Pista
+    100014: Ponte
+    100016: Guard
+    100018: Guard.001
+    100020: GuardRail
+    100022: GuardRail_Ponte
+    100024: GuardSuport
+    100026: Wall
+    100028: GuardRail.001
+    400000: Loop
+    400002: Loop.001
+    400004: NurbsPath
+    400006: //RootNode
+    400008: Loop.002
+    400010: Barreira
+    400012: Pista
+    400014: Ponte
+    400016: Guard
+    400018: Guard.001
+    400020: GuardRail
+    400022: GuardRail_Ponte
+    400024: GuardSuport
+    400026: Wall
+    400028: GuardRail.001
+    2100000: WhiteLine
+    2100002: RoadLoop
+    2100004: Zebra
+    2300000: Loop
+    2300002: Loop.001
+    2300004: NurbsPath
+    2300006: Loop.002
+    2300008: Barreira
+    2300010: Pista
+    2300012: Ponte
+    2300014: Guard
+    2300016: Guard.001
+    2300018: GuardRail
+    2300020: GuardRail_Ponte
+    2300022: GuardSuport
+    2300024: Wall
+    2300026: GuardRail.001
+    3300000: Loop
+    3300002: Loop.001
+    3300004: NurbsPath
+    3300006: Loop.002
+    3300008: Barreira
+    3300010: Pista
+    3300012: Ponte
+    3300014: Guard
+    3300016: Guard.001
+    3300018: GuardRail
+    3300020: GuardRail_Ponte
+    3300022: GuardSuport
+    3300024: Wall
+    3300026: GuardRail.001
+    4300000: Loop
+    4300002: Loop.001
+    4300004: NurbsPath
+    4300006: Loop.002
+    4300008: Pista
+    4300010: Ponte
+    4300012: Barreira
+    4300014: Guard
+    4300016: Guard.001
+    4300018: GuardRail
+    4300020: GuardSuport
+    4300022: GuardRail_Ponte
+    4300024: Wall
+    4300026: GuardRail.001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuardRail
+    second: {fileID: 2100000, guid: 44174357e2ae90147963d67200b4882f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadLoop
+    second: {fileID: 2100000, guid: 68cde740b2188a84cb5b154280b27c81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteLine
+    second: {fileID: 2100000, guid: 7159adfac64978144b3b0b038743e955, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra
+    second: {fileID: 2100000, guid: 554a39167b2eede47b90973b559dd606, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
