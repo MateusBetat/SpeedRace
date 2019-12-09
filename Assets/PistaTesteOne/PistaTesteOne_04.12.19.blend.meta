@@ -18,6 +18,23 @@ ModelImporter:
     100024: GuardSuport
     100026: Wall
     100028: GuardRail.001
+    100030: obj_0504
+    100032: obj_0510
+    100034: obj_0511
+    100036: sobj1405
+    100038: wall0210
+    100040: wall0211
+    100042: wall0212
+    100044: wall0258
+    100046: wall0259
+    100048: wall0260
+    100050: wall0261
+    100052: wall0262
+    100054: wall0263
+    100056: wall0264
+    100058: Bridge
+    100060: GuardRailBridge
+    100062: GuardRail.000
     400000: Loop
     400002: Loop.001
     400004: NurbsPath
@@ -33,6 +50,23 @@ ModelImporter:
     400024: GuardSuport
     400026: Wall
     400028: GuardRail.001
+    400030: obj_0504
+    400032: obj_0510
+    400034: obj_0511
+    400036: sobj1405
+    400038: wall0210
+    400040: wall0211
+    400042: wall0212
+    400044: wall0258
+    400046: wall0259
+    400048: wall0260
+    400050: wall0261
+    400052: wall0262
+    400054: wall0263
+    400056: wall0264
+    400058: Bridge
+    400060: GuardRailBridge
+    400062: GuardRail.000
     2100000: WhiteLine
     2100002: RoadLoop
     2100004: Zebra
@@ -50,6 +84,23 @@ ModelImporter:
     2300022: GuardSuport
     2300024: Wall
     2300026: GuardRail.001
+    2300028: obj_0504
+    2300030: obj_0510
+    2300032: obj_0511
+    2300034: sobj1405
+    2300036: wall0210
+    2300038: wall0211
+    2300040: wall0212
+    2300042: wall0258
+    2300044: wall0259
+    2300046: wall0260
+    2300048: wall0261
+    2300050: wall0262
+    2300052: wall0263
+    2300054: wall0264
+    2300056: Bridge
+    2300058: GuardRailBridge
+    2300060: GuardRail.000
     3300000: Loop
     3300002: Loop.001
     3300004: NurbsPath
@@ -64,6 +115,23 @@ ModelImporter:
     3300022: GuardSuport
     3300024: Wall
     3300026: GuardRail.001
+    3300028: obj_0504
+    3300030: obj_0510
+    3300032: obj_0511
+    3300034: sobj1405
+    3300036: wall0210
+    3300038: wall0211
+    3300040: wall0212
+    3300042: wall0258
+    3300044: wall0259
+    3300046: wall0260
+    3300048: wall0261
+    3300050: wall0262
+    3300052: wall0263
+    3300054: wall0264
+    3300056: Bridge
+    3300058: GuardRailBridge
+    3300060: GuardRail.000
     4300000: Loop
     4300002: Loop.001
     4300004: NurbsPath
@@ -78,13 +146,35 @@ ModelImporter:
     4300022: GuardRail_Ponte
     4300024: Wall
     4300026: GuardRail.001
+    4300028: obj_0504
+    4300030: obj_0510
+    4300032: obj_0511
+    4300034: sobj1405
+    4300036: wall0210
+    4300038: wall0211
+    4300040: wall0212
+    4300042: wall0258
+    4300044: wall0259
+    4300046: wall0260
+    4300048: wall0261
+    4300050: wall0262
+    4300052: wall0263
+    4300054: wall0264
+    4300056: Bridge
+    4300058: GuardRailBridge
+    4300060: GuardRail.000
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: 189
+    second: {fileID: 2100000, guid: 023420ce9320bb245b59bf4ce7bc16ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: GuardRail
-    second: {fileID: 2100000, guid: 44174357e2ae90147963d67200b4882f, type: 2}
+    second: {fileID: 2100000, guid: e094c0ef1cfbafc4699dc1350c107e3f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -100,6 +190,51 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Zebra
     second: {fileID: 2100000, guid: 554a39167b2eede47b90973b559dd606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada1.001
+    second: {fileID: 2100000, guid: e99760e84e4ea894a9e32d4772d82b04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada193.001
+    second: {fileID: 2100000, guid: 4fd342cd154d54946857317d3f47ca9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada314.001
+    second: {fileID: 2100000, guid: 18cbff7c04d525e44b1e86038643bdbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada71.001
+    second: {fileID: 2100000, guid: 4fd354526b936744eaa79055b8a10cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twal58.001
+    second: {fileID: 2100000, guid: ee6b4489a98dd7144bd2d0ca6842b224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twal59.001
+    second: {fileID: 2100000, guid: 135474394e8329945b88536b7bcc835a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall275.001
+    second: {fileID: 2100000, guid: e2f85d36686aca740a5dee4533274ef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall288.001
+    second: {fileID: 2100000, guid: ad212b387c6cced4e994ba15a9765451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall295.001
+    second: {fileID: 2100000, guid: 2afb0cb61b11f824db5dfbc0c8aebd92, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -155,7 +290,7 @@ ModelImporter:
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0

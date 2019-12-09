@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SpeedRaceScene.unity
+    guid: dc233fbd5498d0f40864feb8f13a6fde
   m_configObjects: {}

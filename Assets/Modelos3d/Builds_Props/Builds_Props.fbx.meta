@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 78eb6b4bb70703f45a0406233e1f51a1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: obj_0504
+    100004: obj_0510
+    100006: obj_0511
+    100008: obj_0512
+    100010: obj_0513
+    100012: obj_0514
+    100014: obj_0522
+    100016: obj_0530
+    100018: sobj1402
+    100020: sobj1405
+    100022: wall0210
+    100024: wall0211
+    100026: wall0212
+    100028: wall0258
+    100030: wall0259
+    100032: wall0260
+    100034: wall0261
+    100036: wall0262
+    100038: wall0263
+    100040: wall0264
+    100042: wasc0001
+    100044: wasc0002
+    400000: //RootNode
+    400002: obj_0504
+    400004: obj_0510
+    400006: obj_0511
+    400008: obj_0512
+    400010: obj_0513
+    400012: obj_0514
+    400014: obj_0522
+    400016: obj_0530
+    400018: sobj1402
+    400020: sobj1405
+    400022: wall0210
+    400024: wall0211
+    400026: wall0212
+    400028: wall0258
+    400030: wall0259
+    400032: wall0260
+    400034: wall0261
+    400036: wall0262
+    400038: wall0263
+    400040: wall0264
+    400042: wasc0001
+    400044: wasc0002
+    2100000: roada314.001
+    2100002: 189
+    2100004: roada193.001
+    2100006: roada1.001
+    2100008: roada659.001
+    2100010: roada660.001
+    2100012: roada661.001
+    2100014: roada899.001
+    2100016: roada900.001
+    2100018: roada901.001
+    2100020: roada902.001
+    2100022: roada903.001
+    2100024: roada904.001
+    2100026: roada905.001
+    2100028: roada915.001
+    2100030: roada916.001
+    2100032: roada917.001
+    2100034: twal58.001
+    2100036: twal59.001
+    2100038: wall288.001
+    2100040: wall275.001
+    2100042: wall295.001
+    2100044: roada71.001
+    2100046: bar_bui13_d
+    2100048: bar_bui09_d
+    2100050: bar_bui10_d
+    2100052: bar_bui11_d_env
+    2100054: bar_bui12_d_env
+    2100056: bar_bui14_d
+    2300000: obj_0504
+    2300002: obj_0510
+    2300004: obj_0511
+    2300006: obj_0512
+    2300008: obj_0513
+    2300010: obj_0514
+    2300012: obj_0522
+    2300014: obj_0530
+    2300016: sobj1402
+    2300018: sobj1405
+    2300020: wall0210
+    2300022: wall0211
+    2300024: wall0212
+    2300026: wall0258
+    2300028: wall0259
+    2300030: wall0260
+    2300032: wall0261
+    2300034: wall0262
+    2300036: wall0263
+    2300038: wall0264
+    2300040: wasc0001
+    2300042: wasc0002
+    3300000: obj_0504
+    3300002: obj_0510
+    3300004: obj_0511
+    3300006: obj_0512
+    3300008: obj_0513
+    3300010: obj_0514
+    3300012: obj_0522
+    3300014: obj_0530
+    3300016: sobj1402
+    3300018: sobj1405
+    3300020: wall0210
+    3300022: wall0211
+    3300024: wall0212
+    3300026: wall0258
+    3300028: wall0259
+    3300030: wall0260
+    3300032: wall0261
+    3300034: wall0262
+    3300036: wall0263
+    3300038: wall0264
+    3300040: wasc0001
+    3300042: wasc0002
+    4300000: obj_0504
+    4300002: obj_0510
+    4300004: obj_0511
+    4300006: obj_0512
+    4300008: obj_0513
+    4300010: obj_0514
+    4300012: obj_0522
+    4300014: obj_0530
+    4300016: sobj1402
+    4300018: sobj1405
+    4300020: wall0210
+    4300022: wall0211
+    4300024: wall0212
+    4300026: wall0258
+    4300028: wall0259
+    4300030: wall0260
+    4300032: wall0261
+    4300034: wall0262
+    4300036: wall0263
+    4300038: wall0264
+    4300040: wasc0001
+    4300042: wasc0002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 189
+    second: {fileID: 2100000, guid: cfcaced5593b7954abd26b9887087a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui09_d
+    second: {fileID: 2100000, guid: ce3eb04dbf5209f4c873f2d9d228ddfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui10_d
+    second: {fileID: 2100000, guid: a0ec7f204b9fde943868de8ebbb59bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui11_d_env
+    second: {fileID: 2100000, guid: 1bc371e3c46fad144b99ed0b39fbc695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui12_d_env
+    second: {fileID: 2100000, guid: ac0fad5f3693fef4fa8e3698bacd70ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui13_d
+    second: {fileID: 2100000, guid: 4d1add29fa71a92488a8360f1319dac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui14_d
+    second: {fileID: 2100000, guid: e537d193b02d7244b9b824e4e9fe7c93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada1.001
+    second: {fileID: 2100000, guid: 343c65cb16b660545956c0852a345218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada193.001
+    second: {fileID: 2100000, guid: 1b880376008e022448e17943d0f8abc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada314.001
+    second: {fileID: 2100000, guid: 1432c92bf9359204ea90f286549d9ba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada659.001
+    second: {fileID: 2100000, guid: f72ff441d10183c419b7a44c5a6c53d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada660.001
+    second: {fileID: 2100000, guid: f86b79eb4bdb9f846bb5afc0394de817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada661.001
+    second: {fileID: 2100000, guid: 75695b37e3783cc46b0756496a3f41ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada71.001
+    second: {fileID: 2100000, guid: 2744cd4e9f80c3f4bb316bb94a869f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada899.001
+    second: {fileID: 2100000, guid: ca19b81783234bf46adaafe72dd33347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada900.001
+    second: {fileID: 2100000, guid: b3ace2ce5f129384db59e2fe713f5571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada901.001
+    second: {fileID: 2100000, guid: 0ce27fecf62c17045b799c24cfef7890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada902.001
+    second: {fileID: 2100000, guid: 9bbf2cee75d9c6e4fb4f8ef368490607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada903.001
+    second: {fileID: 2100000, guid: aae9ba5b2c7df3548841af516c1cb027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada904.001
+    second: {fileID: 2100000, guid: fc5f8b77da76ee34eaa123db25db6609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada905.001
+    second: {fileID: 2100000, guid: c2cf3164638d7384cabd9c828bb21e95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada915.001
+    second: {fileID: 2100000, guid: bb33910428053fe46aff36d5e788fcbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada916.001
+    second: {fileID: 2100000, guid: 71896064dbc8f6e4d98697b6cc5b215d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada917.001
+    second: {fileID: 2100000, guid: 8caef80595e5b674b97315e5e42f6a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twal58.001
+    second: {fileID: 2100000, guid: 7f7ead3b7717a9047ae594afee2bd99f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twal59.001
+    second: {fileID: 2100000, guid: 9e3bb35639a21414ea9ad410c40331e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall275.001
+    second: {fileID: 2100000, guid: 33e610a599dd76444b287e75760e965a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall288.001
+    second: {fileID: 2100000, guid: af7d353ef9715be42a6b00fe53979e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall295.001
+    second: {fileID: 2100000, guid: 03f7995a10f330b48ab9ee78469f18f8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
