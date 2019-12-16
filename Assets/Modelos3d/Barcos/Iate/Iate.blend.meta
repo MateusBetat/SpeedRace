@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: f3536551a5b325149a024d1501cdccc1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: barco
+    100002: cabelo
+    100004: //RootNode
+    100006: lara
+    100008: vidro
+    400000: barco
+    400002: cabelo
+    400004: //RootNode
+    400006: lara
+    400008: vidro
+    2100000: Mat_tropic.023
+    2100002: Mat_tropic.024
+    2100004: Mat_tropic.025
+    2100006: Mat_tropic.034
+    2100008: Mat_tropic.047
+    2100010: Mat_tropic.026
+    2100012: Mat_tropic.027
+    2100014: Mat_tropic.028
+    2100016: Mat_tropic.029
+    2100018: Mat_tropic.030
+    2100020: Mat_tropic.031
+    2100022: Mat_tropic.032
+    2100024: Mat_tropic.033
+    2100026: Mat_tropic.035
+    2100028: Mat_tropic.036
+    2100030: Mat_tropic.037
+    2100032: Mat_tropic.038
+    2100034: Mat_tropic.039
+    2100036: Mat_tropic.040
+    2100038: Mat_tropic.041
+    2100040: Mat_tropic.042
+    2100042: Mat_tropic.043
+    2100044: Mat_tropic.044
+    2100046: Mat_tropic.045
+    2100048: Mat_tropic.046
+    2100050: Mat_tropic.010
+    2100052: Mat_tropic.011
+    2100054: Mat_tropic.012
+    2100056: Mat_tropic.013
+    2100058: Mat_tropic.014
+    2100060: Mat_tropic.015
+    2100062: Mat_tropic.016
+    2100064: Mat_tropic.017
+    2100066: Mat_tropic.018
+    2100068: Mat_tropic.019
+    2100070: Mat_tropic.020
+    2100072: Mat_tropic.021
+    2300000: barco
+    2300002: cabelo
+    2300004: lara
+    2300006: vidro
+    3300000: barco
+    3300002: cabelo
+    3300004: lara
+    3300006: vidro
+    4300000: barco
+    4300002: vidro
+    4300004: lara
+    4300006: cabelo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

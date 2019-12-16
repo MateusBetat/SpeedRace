@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 3300839d780d26d438db5ca18f4d5e65
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bonnet_dummy
+    100002: bonnet_ok
+    100004: boot_dummy
+    100006: boot_ok
+    100008: bump_front_dam
+    100010: bump_front_dummy
+    100012: bump_front_ok
+    100014: bump_rear_dummy
+    100016: bump_rear_ok
+    100018: chassis
+    100020: chassis_dummy
+    100022: door_lf_dummy
+    100024: door_lf_ok
+    100026: door_lr_dummy
+    100028: door_rf_dummy
+    100030: door_rf_ok
+    100032: door_rr_dummy
+    100034: drivetrain
+    100036: engine
+    100038: exhaust
+    100040: headlights
+    100042: misc_a
+    100044: misc_b
+    100046: misc_c
+    100048: misc_d
+    100050: misc_e
+    100052: //RootNode
+    100054: ped_backseat
+    100056: ped_frontseat
+    100058: plate_ok
+    100060: plate_ok.001
+    100062: taillights
+    100064: wheel
+    100066: windscreen_dam
+    100068: windscreen_dummy
+    100070: windscreen_ok
+    100072: wing_lf_dam
+    100074: wing_lf_dummy
+    100076: wing_lf_ok
+    100078: wing_rf_dam
+    100080: wing_rf_dummy
+    100082: wing_rf_ok
+    100084: chassis.001
+    100086: boot_ok.001
+    400000: bonnet_dummy
+    400002: bonnet_ok
+    400004: boot_dummy
+    400006: boot_ok
+    400008: bump_front_dam
+    400010: bump_front_dummy
+    400012: bump_front_ok
+    400014: bump_rear_dummy
+    400016: bump_rear_ok
+    400018: chassis
+    400020: chassis_dummy
+    400022: door_lf_dummy
+    400024: door_lf_ok
+    400026: door_lr_dummy
+    400028: door_rf_dummy
+    400030: door_rf_ok
+    400032: door_rr_dummy
+    400034: drivetrain
+    400036: engine
+    400038: exhaust
+    400040: headlights
+    400042: misc_a
+    400044: misc_b
+    400046: misc_c
+    400048: misc_d
+    400050: misc_e
+    400052: //RootNode
+    400054: ped_backseat
+    400056: ped_frontseat
+    400058: plate_ok
+    400060: plate_ok.001
+    400062: taillights
+    400064: wheel
+    400066: windscreen_dam
+    400068: windscreen_dummy
+    400070: windscreen_ok
+    400072: wing_lf_dam
+    400074: wing_lf_dummy
+    400076: wing_lf_ok
+    400078: wing_rf_dam
+    400080: wing_rf_dummy
+    400082: wing_rf_ok
+    400084: chassis.001
+    400086: boot_ok.001
+    2100000: Mat_buffalo.149
+    2100002: Mat_buffalo.150
+    2100004: Mat_buffalo.151
+    2100006: Mat_buffalo.152
+    2100008: Mat_buffalo.153
+    2100010: Mat_buffalo.154
+    2100012: Mat_buffalo
+    2100014: Mat_buffalo.001
+    2100016: Mat_buffalo.002
+    2100018: Mat_buffalo.003
+    2100020: Mat_buffalo.004
+    2100022: Mat_buffalo.005
+    2100024: Mat_buffalo.006
+    2100026: Mat_buffalo.007
+    2100028: Mat_buffalo.008
+    2100030: Mat_buffalo.009
+    2100032: Mat_buffalo.010
+    2100034: Mat_buffalo.011
+    2100036: Mat_buffalo.012
+    2100038: Mat_buffalo.104
+    2100040: Mat_buffalo.103
+    2100042: Mat_buffalo.101
+    2100044: Mat_buffalo.102
+    2100046: Mat_buffalo.099
+    2100048: Mat_buffalo.100
+    2100050: Mat_buffalo.098
+    2100052: Mat_buffalo.097
+    2100054: Mat_buffalo.096
+    2100056: Mat_buffalo.095
+    2100058: Mat_buffalo.081
+    2100060: Mat_buffalo.082
+    2100062: Mat_buffalo.083
+    2100064: Mat_buffalo.084
+    2100066: Mat_buffalo.085
+    2100068: Mat_buffalo.086
+    2100070: Mat_buffalo.087
+    2100072: Mat_buffalo.066
+    2100074: Mat_buffalo.067
+    2100076: Mat_buffalo.068
+    2100078: Mat_buffalo.069
+    2100080: Mat_buffalo.070
+    2100082: Mat_buffalo.071
+    2100084: Mat_buffalo.072
+    2100086: Mat_buffalo.073
+    2100088: Mat_buffalo.062
+    2100090: Mat_buffalo.063
+    2100092: Mat_buffalo.064
+    2100094: Mat_buffalo.065
+    2100096: Mat_buffalo.056
+    2100098: Mat_buffalo.057
+    2100100: Mat_buffalo.058
+    2100102: Mat_buffalo.059
+    2100104: Mat_buffalo.060
+    2100106: Mat_buffalo.061
+    2100108: Mat_buffalo.051
+    2100110: Mat_buffalo.052
+    2100112: Mat_buffalo.053
+    2100114: Mat_buffalo.054
+    2100116: Mat_buffalo.055
+    2100118: Mat_buffalo.045
+    2100120: Mat_buffalo.046
+    2100122: Mat_buffalo.047
+    2100124: Mat_buffalo.048
+    2100126: Mat_buffalo.049
+    2100128: Mat_buffalo.050
+    2100130: Mat_buffalo.041
+    2100132: Mat_buffalo.042
+    2100134: Mat_buffalo.037
+    2100136: Mat_buffalo.038
+    2100138: Mat_buffalo.031
+    2100140: Mat_buffalo.032
+    2100142: Mat_buffalo.033
+    2100144: Mat_buffalo.022
+    2100146: Mat_buffalo.023
+    2100148: Mat_buffalo.024
+    2100150: Mat_buffalo.025
+    2100152: Mat_buffalo.026
+    2100154: Mat_buffalo.027
+    2100156: Mat_buffalo.028
+    2100158: Mat_buffalo.013
+    2100160: Mat_buffalo.014
+    2100162: Mat_buffalo.015
+    2100164: Mat_buffalo.016
+    2100166: Mat_buffalo.017
+    2100168: Mat_buffalo.018
+    2100170: Mat_buffalo.019
+    2100172: Mat_buffalo.020
+    2100174: Mat_buffalo.021
+    2300000: bonnet_ok
+    2300002: boot_ok
+    2300004: bump_front_dam
+    2300006: bump_front_ok
+    2300008: bump_rear_ok
+    2300010: chassis
+    2300012: door_lf_ok
+    2300014: door_rf_ok
+    2300016: drivetrain
+    2300018: misc_a
+    2300020: misc_b
+    2300022: misc_c
+    2300024: misc_d
+    2300026: misc_e
+    2300028: plate_ok
+    2300030: plate_ok.001
+    2300032: wheel
+    2300034: windscreen_dam
+    2300036: windscreen_ok
+    2300038: wing_lf_dam
+    2300040: wing_lf_ok
+    2300042: wing_rf_dam
+    2300044: wing_rf_ok
+    2300046: chassis.001
+    2300048: boot_ok.001
+    3300000: bonnet_ok
+    3300002: boot_ok
+    3300004: bump_front_dam
+    3300006: bump_front_ok
+    3300008: bump_rear_ok
+    3300010: chassis
+    3300012: door_lf_ok
+    3300014: door_rf_ok
+    3300016: drivetrain
+    3300018: misc_a
+    3300020: misc_b
+    3300022: misc_c
+    3300024: misc_d
+    3300026: misc_e
+    3300028: plate_ok
+    3300030: plate_ok.001
+    3300032: wheel
+    3300034: windscreen_dam
+    3300036: windscreen_ok
+    3300038: wing_lf_dam
+    3300040: wing_lf_ok
+    3300042: wing_rf_dam
+    3300044: wing_rf_ok
+    3300046: chassis.001
+    3300048: boot_ok.001
+    4300000: wheel
+    4300002: chassis
+    4300004: drivetrain
+    4300006: misc_e
+    4300008: misc_c
+    4300010: misc_d
+    4300012: misc_b
+    4300014: misc_a
+    4300016: windscreen_dam
+    4300018: windscreen_ok
+    4300020: door_rf_ok
+    4300022: door_lf_ok
+    4300024: wing_lf_dam
+    4300026: wing_lf_ok
+    4300028: wing_rf_dam
+    4300030: wing_rf_ok
+    4300032: boot_ok
+    4300034: bonnet_ok
+    4300036: bump_rear_ok
+    4300038: plate_ok.001
+    4300040: bump_front_dam
+    4300042: bump_front_ok
+    4300044: plate_ok
+    4300046: chassis.001
+    4300048: boot_ok.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo
+    second: {fileID: 2100000, guid: 5d92d8eb79e37e5499d13748d6475869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.001
+    second: {fileID: 2100000, guid: 2d79cbf0b13c7b0429c87fb3d101076b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.002
+    second: {fileID: 2100000, guid: 3ea58c0e0ff04fb449dad35016d66cd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.003
+    second: {fileID: 2100000, guid: 9ea1180e3031a704ba5fc5cd944f75d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.004
+    second: {fileID: 2100000, guid: 8bca33328279cc045b91cd804fc3fc4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.005
+    second: {fileID: 2100000, guid: 0e8e41eb825917848832e3cf079d66fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.006
+    second: {fileID: 2100000, guid: 51faf58d0cdbedf47bfb8f371b16e0ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.007
+    second: {fileID: 2100000, guid: f1528e11f63c1114383a54cd7990b27c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.008
+    second: {fileID: 2100000, guid: 00a80375f35b76341bcdcfee6dc5cb93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.009
+    second: {fileID: 2100000, guid: 0a2843e76c901ff48b1039a2a9839c0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.010
+    second: {fileID: 2100000, guid: 7da964251dfc75244b3e4c7801a291f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.011
+    second: {fileID: 2100000, guid: c10191da0e9f8cd4796c4fd1d1dceb63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.012
+    second: {fileID: 2100000, guid: c671d23687b053a4f820912a44b99416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.013
+    second: {fileID: 2100000, guid: 7cc755003af914f44b7667eccc1bb4d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.014
+    second: {fileID: 2100000, guid: 531347f355436af408dd98bf30add196, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.015
+    second: {fileID: 2100000, guid: f1269fd2fa52803498e50311b61752b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.016
+    second: {fileID: 2100000, guid: 9d2b25dbf948b1748bc7268e8d2a24b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.017
+    second: {fileID: 2100000, guid: a736c128e5003cc4f980d38f89baca1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.018
+    second: {fileID: 2100000, guid: 346cf0934d9fb1e469e2ec0c27752681, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.019
+    second: {fileID: 2100000, guid: 8f5a96cc8deaccc42a8b7234ec838839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.020
+    second: {fileID: 2100000, guid: a67462cecac667d43843d358b8f0519e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.021
+    second: {fileID: 2100000, guid: 065defdf2a7ebda478c0a8dfcb86a5af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.022
+    second: {fileID: 2100000, guid: f7c2a71bce5426c448e589b69157569a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.023
+    second: {fileID: 2100000, guid: ba03a227e1f03fb45a01f7136ffedddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.024
+    second: {fileID: 2100000, guid: 435f18d48ceb24f458be3ae9f33b6968, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.025
+    second: {fileID: 2100000, guid: 9f733bf1db6a12449b880b3f18f53965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.026
+    second: {fileID: 2100000, guid: 32bed6d70b4238a4f911e2aec4d50c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.027
+    second: {fileID: 2100000, guid: 369f74ca329e1d94baebb57a106fe683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.028
+    second: {fileID: 2100000, guid: 870349ce20b381b4c8ab563872bc011a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.031
+    second: {fileID: 2100000, guid: 443e08a969d246842be0dea175a3177e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.032
+    second: {fileID: 2100000, guid: ca14537e49405c44089871abdedb31f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.033
+    second: {fileID: 2100000, guid: dead17c070149914eaaf872820a8b86b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.037
+    second: {fileID: 2100000, guid: 17dd88a0cae68224eb831703b4d9259b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.038
+    second: {fileID: 2100000, guid: bbf4b3c6ca39e304a932a1c881d59d36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.041
+    second: {fileID: 2100000, guid: c4662e081662a7146ab91c571a08b338, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.042
+    second: {fileID: 2100000, guid: 94cf86a9fd393ea41b290096d569c05a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.045
+    second: {fileID: 2100000, guid: 50966fc9375c2674e9acf9903efd7780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.046
+    second: {fileID: 2100000, guid: c4c20447b00bc7d47ad4e77a83999c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.047
+    second: {fileID: 2100000, guid: 0a74625696319154c92135a99d3b6e41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.048
+    second: {fileID: 2100000, guid: f0c160a4a3d9673499edcd3757a0667d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.049
+    second: {fileID: 2100000, guid: 23ee56abe02b12a478b47c8afb6f0358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.050
+    second: {fileID: 2100000, guid: 2357d3fcf2665f74f86d8269743658d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.051
+    second: {fileID: 2100000, guid: 1db2306c354ce0643b2d924d7e674b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.052
+    second: {fileID: 2100000, guid: 24c7439068e852b4b8d19da508914943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.053
+    second: {fileID: 2100000, guid: 30385aea6e1181b41aeba197d1cd9b90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.054
+    second: {fileID: 2100000, guid: b67885a25583d4345a962015d6ef9315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.055
+    second: {fileID: 2100000, guid: fbc8dbc879767ab45baf1b38b8d1a09b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.056
+    second: {fileID: 2100000, guid: 2f83cc095d5e5b64b8c288bdfd6d080c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.057
+    second: {fileID: 2100000, guid: f601bf315cb506e45a2cc433195c954b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.058
+    second: {fileID: 2100000, guid: 4f2a5e23215631046926217153196024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.059
+    second: {fileID: 2100000, guid: 7e5a5c7bc54f92744bd6e6e201e83aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.060
+    second: {fileID: 2100000, guid: eda7563bd16ab9a43a351ee49dd7d2be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.061
+    second: {fileID: 2100000, guid: bc17e427d27acc04aaa0bcb5cccd215c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.062
+    second: {fileID: 2100000, guid: a2c4963cac4e6b94a98506b3a3808129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.063
+    second: {fileID: 2100000, guid: c4a0613d70abc9849a37ec6483a2c985, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.064
+    second: {fileID: 2100000, guid: 432cf25b10f13e14d92f2535952b3172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.065
+    second: {fileID: 2100000, guid: 911ab5d6a63b1264e974f76e87dc1253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.066
+    second: {fileID: 2100000, guid: 0ad2916f070b7eb468587f5d49f7a735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.067
+    second: {fileID: 2100000, guid: 23496ff97fd4c444c950b398601657bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.068
+    second: {fileID: 2100000, guid: 3ac0559614317b043a2e1600117db0b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.069
+    second: {fileID: 2100000, guid: f5de200f831f9a24d9dbbf2439c6424d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.070
+    second: {fileID: 2100000, guid: 79633ea6307235f43ade95ca9b344600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.071
+    second: {fileID: 2100000, guid: 4151f988ef5c4014e9d8bd5bdd77cc59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.072
+    second: {fileID: 2100000, guid: 7a147e3c98345a74b8fd10ec60af2251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.073
+    second: {fileID: 2100000, guid: 04b7e4c9197fb584480021e136e0d573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.081
+    second: {fileID: 2100000, guid: 3c1c55103a72b3f49aecb508b1069d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.082
+    second: {fileID: 2100000, guid: da70f57cc9dff07419a3e5b060750773, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.083
+    second: {fileID: 2100000, guid: 497e876d09fa18b41a4201ae288fb5c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.084
+    second: {fileID: 2100000, guid: 127fea0203a77cf4db332dd4990780ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.085
+    second: {fileID: 2100000, guid: 122aec425915ac84986906a677ca4302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.086
+    second: {fileID: 2100000, guid: f04145d95fb28544eb4fc0a9639e0055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.087
+    second: {fileID: 2100000, guid: 5b4b78ce1954db145895cd01c3699288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.095
+    second: {fileID: 2100000, guid: fd3197491cd4fae489b5c3fe1a1b0121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.096
+    second: {fileID: 2100000, guid: 789ffb2f9be1a2748853c44a5fc231b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.097
+    second: {fileID: 2100000, guid: 8dfb9382b58dd6242ab846266977c064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.098
+    second: {fileID: 2100000, guid: 2de25089e04195e48b3110c0323a880b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.099
+    second: {fileID: 2100000, guid: 4e60e609d73a7a446bfb771b68c56071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.100
+    second: {fileID: 2100000, guid: 4887f0d777585cc429c053ef2a0667c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.101
+    second: {fileID: 2100000, guid: afb7200c51eb0b4478be938cb3612984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.102
+    second: {fileID: 2100000, guid: c81a677bd178995459e0fa9ce30f3933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.103
+    second: {fileID: 2100000, guid: 9231686c43ab3d04da58785db91f5cc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.104
+    second: {fileID: 2100000, guid: 07620824747fc5e4d9904db8c5b8f87e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.149
+    second: {fileID: 2100000, guid: c336a8bd89b8c9a41aff41f5b4f4cd14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.150
+    second: {fileID: 2100000, guid: ed324db52470cfe42851183d5be3b4c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.151
+    second: {fileID: 2100000, guid: cb6b2c4b61ac3844da5018e57a1cb015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.152
+    second: {fileID: 2100000, guid: 1d296b90f1e253e4f8149342f86d7a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.153
+    second: {fileID: 2100000, guid: 9fe9c8df27649a141883ffa297fac9ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_buffalo.154
+    second: {fileID: 2100000, guid: fb81d4e5ae274c94ca845c5536c3d48c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
