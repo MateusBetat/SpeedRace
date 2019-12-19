@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: e314e1766fd90cc46b297c7ffdd0a5f9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Green
+    100002: GreenOff
+    100004: Orange
+    100006: OrangeOff
+    100008: Red
+    100010: Red2
+    100012: Red2Off
+    100014: RedOff
+    100016: Semaphore
+    100018: Semaphore.001
+    100020: Semaphore.002
+    100022: Semaphore.003
+    100024: Semaphore.004
+    100026: //RootNode
+    100028: Support
+    400000: Green
+    400002: GreenOff
+    400004: Orange
+    400006: OrangeOff
+    400008: Red
+    400010: Red2
+    400012: Red2Off
+    400014: RedOff
+    400016: Semaphore
+    400018: Semaphore.001
+    400020: Semaphore.002
+    400022: Semaphore.003
+    400024: Semaphore.004
+    400026: //RootNode
+    400028: Support
+    2100000: Green
+    2100002: LightsOff
+    2100004: Orange
+    2100006: Red
+    2100008: Black
+    2100010: Support
+    2300000: Green
+    2300002: GreenOff
+    2300004: Orange
+    2300006: OrangeOff
+    2300008: Red
+    2300010: Red2
+    2300012: Red2Off
+    2300014: RedOff
+    2300016: Semaphore
+    2300018: Semaphore.001
+    2300020: Semaphore.002
+    2300022: Semaphore.003
+    2300024: Semaphore.004
+    2300026: Support
+    3300000: Green
+    3300002: GreenOff
+    3300004: Orange
+    3300006: OrangeOff
+    3300008: Red
+    3300010: Red2
+    3300012: Red2Off
+    3300014: RedOff
+    3300016: Semaphore
+    3300018: Semaphore.001
+    3300020: Semaphore.002
+    3300022: Semaphore.003
+    3300024: Semaphore.004
+    3300026: Support
+    4300000: Green
+    4300002: GreenOff
+    4300004: Orange
+    4300006: OrangeOff
+    4300008: Red
+    4300010: Red2
+    4300012: Red2Off
+    4300014: RedOff
+    4300016: Semaphore
+    4300018: Semaphore.001
+    4300020: Semaphore.002
+    4300022: Semaphore.003
+    4300024: Semaphore.004
+    4300026: Support
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 19aa5820a20751b46aae06afbbaee867, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 7becc583b7ea5b64a932cce28c4ea46c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightsOff
+    second: {fileID: 2100000, guid: 00626eaf7df9ee34ea2515a05974ac81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 9c3ed4e88c56d154489a44669f4441b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: 1e89d6b75a0c56a47b4d305bce8df9ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Support
+    second: {fileID: 2100000, guid: bb8b0bd2fbaed0e4e872f793a6b2d5a7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
