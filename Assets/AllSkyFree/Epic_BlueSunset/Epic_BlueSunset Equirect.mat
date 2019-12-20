@@ -97,7 +97,11 @@ Material:
     - _OcclusionStrength: 1
     - _Parallax: 0.02
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _Rotation: 0
+=======
+    - _Rotation: 159
+>>>>>>> parent of 2a00100... ReflectionProbeWater
 =======
     - _Rotation: 159
 >>>>>>> parent of 2a00100... ReflectionProbeWater

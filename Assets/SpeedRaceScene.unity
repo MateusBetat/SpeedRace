@@ -39,7 +39,11 @@ RenderSettings:
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.37343583, g: 0.6108806, b: 0.8626843, a: 1}
+=======
+  m_IndirectSpecularColor: {r: 0.63566035, g: 0.64575255, b: 0.6270974, a: 1}
+>>>>>>> parent of 2a00100... ReflectionProbeWater
 =======
   m_IndirectSpecularColor: {r: 0.63566035, g: 0.64575255, b: 0.6270974, a: 1}
 >>>>>>> parent of 2a00100... ReflectionProbeWater
@@ -7232,8 +7236,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 817244998}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: 0.7714631, y: 0.011449403, z: 0.010170612, w: 0.63608974}
   m_LocalPosition: {x: 227.29999, y: 259.3, z: -251.79999}
+=======
+  m_LocalRotation: {x: 0.67425334, y: -0.13577597, z: -0.12600705, w: 0.7148914}
+  m_LocalPosition: {x: -12.16, y: 197.08, z: -551.44}
+>>>>>>> parent of 2a00100... ReflectionProbeWater
 =======
   m_LocalRotation: {x: 0.67425334, y: -0.13577597, z: -0.12600705, w: 0.7148914}
   m_LocalPosition: {x: -12.16, y: 197.08, z: -551.44}
@@ -7243,7 +7252,11 @@ Transform:
   m_Father: {fileID: 1996933560}
   m_RootOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 101.12601, y: -9.021973, z: -9.125977}
+=======
+  m_LocalEulerAnglesHint: {x: 111.59299, y: -261.579, z: -260.773}
+>>>>>>> parent of 2a00100... ReflectionProbeWater
 =======
   m_LocalEulerAnglesHint: {x: 111.59299, y: -261.579, z: -260.773}
 >>>>>>> parent of 2a00100... ReflectionProbeWater
