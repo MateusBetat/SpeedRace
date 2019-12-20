@@ -38,7 +38,11 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.37343583, g: 0.6108806, b: 0.8626843, a: 1}
+=======
+  m_IndirectSpecularColor: {r: 0.63566035, g: 0.64575255, b: 0.6270974, a: 1}
+>>>>>>> parent of 2a00100... ReflectionProbeWater
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -7227,13 +7231,22 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 817244998}
+<<<<<<< HEAD
   m_LocalRotation: {x: 0.7714631, y: 0.011449403, z: 0.010170612, w: 0.63608974}
   m_LocalPosition: {x: 227.29999, y: 259.3, z: -251.79999}
+=======
+  m_LocalRotation: {x: 0.67425334, y: -0.13577597, z: -0.12600705, w: 0.7148914}
+  m_LocalPosition: {x: -12.16, y: 197.08, z: -551.44}
+>>>>>>> parent of 2a00100... ReflectionProbeWater
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1996933560}
   m_RootOrder: 0
+<<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 101.12601, y: -9.021973, z: -9.125977}
+=======
+  m_LocalEulerAnglesHint: {x: 111.59299, y: -261.579, z: -260.773}
+>>>>>>> parent of 2a00100... ReflectionProbeWater
 --- !u!1001 &823985830
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21550,6 +21563,93 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2143835695}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1001 &135453391966631886
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 287266430506715965, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_Name
+      value: StartingLights
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 55.751
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10.654
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 281.63046
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 287266430506293021, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 135453391602784579, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 135453390945745803, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 135453390132147841, guid: 86e79417483a89c4a929236dc04744c3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 86e79417483a89c4a929236dc04744c3, type: 3}
+>>>>>>> parent of 2a00100... ReflectionProbeWater
 --- !u!1 &267477847721890313
 GameObject:
   m_ObjectHideFlags: 0
