@@ -35,6 +35,7 @@ ModelImporter:
     100058: Bridge
     100060: GuardRailBridge
     100062: GuardRail.000
+    100064: PilarSalto
     400000: Loop
     400002: Loop.001
     400004: NurbsPath
@@ -67,6 +68,7 @@ ModelImporter:
     400058: Bridge
     400060: GuardRailBridge
     400062: GuardRail.000
+    400064: PilarSalto
     2100000: WhiteLine
     2100002: RoadLoop
     2100004: Zebra
@@ -101,6 +103,7 @@ ModelImporter:
     2300056: Bridge
     2300058: GuardRailBridge
     2300060: GuardRail.000
+    2300062: PilarSalto
     3300000: Loop
     3300002: Loop.001
     3300004: NurbsPath
@@ -132,6 +135,7 @@ ModelImporter:
     3300056: Bridge
     3300058: GuardRailBridge
     3300060: GuardRail.000
+    3300062: PilarSalto
     4300000: Loop
     4300002: Loop.001
     4300004: NurbsPath
@@ -163,6 +167,7 @@ ModelImporter:
     4300056: Bridge
     4300058: GuardRailBridge
     4300060: GuardRail.000
+    4300062: PilarSalto
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
@@ -179,7 +184,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: RoadLoop
-    second: {fileID: 2100000, guid: 68cde740b2188a84cb5b154280b27c81, type: 2}
+    second: {fileID: 2100000, guid: 9b417c1a09547ba4ba09e4db2356b12b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -189,6 +194,11 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Zebra
+    second: {fileID: 2100000, guid: 554a39167b2eede47b90973b559dd606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra_Red_White
     second: {fileID: 2100000, guid: 554a39167b2eede47b90973b559dd606, type: 2}
   - first:
       type: UnityEngine:Material

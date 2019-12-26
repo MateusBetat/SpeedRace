@@ -26,6 +26,7 @@ ModelImporter:
     100040: wall0264
     100042: wasc0001
     100044: wasc0002
+    100046: Garagens
     400000: //RootNode
     400002: obj_0504
     400004: obj_0510
@@ -49,6 +50,7 @@ ModelImporter:
     400040: wall0264
     400042: wasc0001
     400044: wasc0002
+    400046: Garagens
     2100000: roada314.001
     2100002: 189
     2100004: roada193.001
@@ -100,6 +102,7 @@ ModelImporter:
     2300038: wall0264
     2300040: wasc0001
     2300042: wasc0002
+    2300044: Garagens
     3300000: obj_0504
     3300002: obj_0510
     3300004: obj_0511
@@ -122,6 +125,7 @@ ModelImporter:
     3300038: wall0264
     3300040: wasc0001
     3300042: wasc0002
+    3300044: Garagens
     4300000: obj_0504
     4300002: obj_0510
     4300004: obj_0511
@@ -144,7 +148,153 @@ ModelImporter:
     4300038: wall0264
     4300040: wasc0001
     4300042: wasc0002
-  externalObjects: {}
+    4300044: Garagens
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 189
+    second: {fileID: 2100000, guid: cfcaced5593b7954abd26b9887087a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui09_d
+    second: {fileID: 2100000, guid: ce3eb04dbf5209f4c873f2d9d228ddfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui10_d
+    second: {fileID: 2100000, guid: a0ec7f204b9fde943868de8ebbb59bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui11_d_env
+    second: {fileID: 2100000, guid: 1bc371e3c46fad144b99ed0b39fbc695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui12_d_env
+    second: {fileID: 2100000, guid: ac0fad5f3693fef4fa8e3698bacd70ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui13_d
+    second: {fileID: 2100000, guid: 4d1add29fa71a92488a8360f1319dac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_bui14_d
+    second: {fileID: 2100000, guid: e537d193b02d7244b9b824e4e9fe7c93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada1.001
+    second: {fileID: 2100000, guid: 1731da91af67338499f80138ec0bff63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada193.001
+    second: {fileID: 2100000, guid: 2781131ffd68b4146a17f5b0b1bf0bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada314.001
+    second: {fileID: 2100000, guid: 7812d760cfb8ea54fbc95d9312ff1eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada659.001
+    second: {fileID: 2100000, guid: 184c4283d98742f419ba641ab52a0f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada660.001
+    second: {fileID: 2100000, guid: a9fee9bf40bcaa64586ae9628e710911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada661.001
+    second: {fileID: 2100000, guid: 62c9e0e74edf5824782ab17c172764a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada71.001
+    second: {fileID: 2100000, guid: 3e04d0e27ee99e54589b244e0406a271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada899.001
+    second: {fileID: 2100000, guid: 0b5b6d3522aa54045b522537dd7e4e1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada900.001
+    second: {fileID: 2100000, guid: dad34ffe2adb98c4bab6860c2a687ad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada901.001
+    second: {fileID: 2100000, guid: 48eaf66b3031f09449247f133bf1ea74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada902.001
+    second: {fileID: 2100000, guid: 9f3771c2ab9753141ba78065cf52e0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada903.001
+    second: {fileID: 2100000, guid: 4dac871d1e1c18d41bc6a5fc5e155c51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada904.001
+    second: {fileID: 2100000, guid: 6a4bfc53b31ad7f4e85719a33bd7dff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada905.001
+    second: {fileID: 2100000, guid: ad3d1579dbf54084da4d3f95ed003087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada915.001
+    second: {fileID: 2100000, guid: cfe409f09b241a846ac3d6754b9a14e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada916.001
+    second: {fileID: 2100000, guid: 147597fee9ef0cf449ddb4a7c00f079f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roada917.001
+    second: {fileID: 2100000, guid: a57f6c9c1738f56468c744b9331e761f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twal58.001
+    second: {fileID: 2100000, guid: cd2bd0c89c4877148b2943df13ccefe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twal59.001
+    second: {fileID: 2100000, guid: 8370fec22d2508d43b918cb11d207c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall275.001
+    second: {fileID: 2100000, guid: 2f9acd350843c614ca6d4c5af7575def, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall288.001
+    second: {fileID: 2100000, guid: df7fcc06c29262f47b37d3883eec0bff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall295.001
+    second: {fileID: 2100000, guid: 814ec43a014f3184c9b4d27397b61b0c, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
