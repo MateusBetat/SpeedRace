@@ -181,12 +181,12 @@ GameObject:
   - component: {fileID: 1865890921675503135}
   - component: {fileID: 1865890921674536159}
   m_Layer: 0
-  m_Name: GuardRail_Ponte
+  m_Name: GuardSup_Ponte
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1865890921676830269
 Transform:
   m_ObjectHideFlags: 0
@@ -216,7 +216,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1865890921676794397}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -303,7 +303,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 44174357e2ae90147963d67200b4882f, type: 2}
+  - {fileID: 2100000, guid: ab38c96bbba4ddf46a41e2d8c4d0e9f6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -593,6 +593,14 @@ MeshRenderer:
   - {fileID: 2100000, guid: 68cde740b2188a84cb5b154280b27c81, type: 2}
   - {fileID: 2100000, guid: 554a39167b2eede47b90973b559dd606, type: 2}
   - {fileID: 2100000, guid: 9643d0ee9455ea047bc07c0efcf9812f, type: 2}
+  - {fileID: 2100000, guid: 9643d0ee9455ea047bc07c0efcf9812f, type: 2}
+  - {fileID: 2100000, guid: 90d528619db78b14d9e610b83ad5baf7, type: 2}
+  - {fileID: 2100000, guid: 90d528619db78b14d9e610b83ad5baf7, type: 2}
+  - {fileID: 2100000, guid: 9643d0ee9455ea047bc07c0efcf9812f, type: 2}
+  - {fileID: 2100000, guid: 68cde740b2188a84cb5b154280b27c81, type: 2}
+  - {fileID: 2100000, guid: 9643d0ee9455ea047bc07c0efcf9812f, type: 2}
+  - {fileID: 2100000, guid: 9643d0ee9455ea047bc07c0efcf9812f, type: 2}
+  - {fileID: 2100000, guid: 9643d0ee9455ea047bc07c0efcf9812f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -644,7 +652,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4562645605406262988
 Transform:
   m_ObjectHideFlags: 0
@@ -674,7 +682,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4562645605406169836}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1

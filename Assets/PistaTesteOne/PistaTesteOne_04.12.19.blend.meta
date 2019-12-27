@@ -36,6 +36,15 @@ ModelImporter:
     100060: GuardRailBridge
     100062: GuardRail.000
     100064: PilarSalto
+    100066: Cylinder
+    100068: Cylinder.001
+    100070: Cylinder.002
+    100072: Cylinder.003
+    100074: Cylinder.004
+    100076: Cylinder.005
+    100078: Cylinder.006
+    100080: Pista.001
+    100082: SteelBars
     400000: Loop
     400002: Loop.001
     400004: NurbsPath
@@ -69,6 +78,15 @@ ModelImporter:
     400060: GuardRailBridge
     400062: GuardRail.000
     400064: PilarSalto
+    400066: Cylinder
+    400068: Cylinder.001
+    400070: Cylinder.002
+    400072: Cylinder.003
+    400074: Cylinder.004
+    400076: Cylinder.005
+    400078: Cylinder.006
+    400080: Pista.001
+    400082: SteelBars
     2100000: WhiteLine
     2100002: RoadLoop
     2100004: Zebra
@@ -104,6 +122,15 @@ ModelImporter:
     2300058: GuardRailBridge
     2300060: GuardRail.000
     2300062: PilarSalto
+    2300064: Cylinder
+    2300066: Cylinder.001
+    2300068: Cylinder.002
+    2300070: Cylinder.003
+    2300072: Cylinder.004
+    2300074: Cylinder.005
+    2300076: Cylinder.006
+    2300078: Pista.001
+    2300080: SteelBars
     3300000: Loop
     3300002: Loop.001
     3300004: NurbsPath
@@ -136,6 +163,15 @@ ModelImporter:
     3300058: GuardRailBridge
     3300060: GuardRail.000
     3300062: PilarSalto
+    3300064: Cylinder
+    3300066: Cylinder.001
+    3300068: Cylinder.002
+    3300070: Cylinder.003
+    3300072: Cylinder.004
+    3300074: Cylinder.005
+    3300076: Cylinder.006
+    3300078: Pista.001
+    3300080: SteelBars
     4300000: Loop
     4300002: Loop.001
     4300004: NurbsPath
@@ -168,6 +204,15 @@ ModelImporter:
     4300058: GuardRailBridge
     4300060: GuardRail.000
     4300062: PilarSalto
+    4300064: Cylinder
+    4300066: Cylinder.001
+    4300068: Cylinder.002
+    4300070: Cylinder.003
+    4300072: Cylinder.004
+    4300074: Cylinder.005
+    4300076: Cylinder.006
+    4300078: Pista.001
+    4300080: SteelBars
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
@@ -183,7 +228,32 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 2266d98222176b243849a318d8a5e33f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: ff033991d9fedc24d9a9e400034380a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: bfbddffe7c746e248987617fb2dc44a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: RoadLoop
+    second: {fileID: 2100000, guid: 9b417c1a09547ba4ba09e4db2356b12b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadLoop.001
+    second: {fileID: 2100000, guid: 9b417c1a09547ba4ba09e4db2356b12b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoadLoop.002
     second: {fileID: 2100000, guid: 9b417c1a09547ba4ba09e4db2356b12b, type: 2}
   - first:
       type: UnityEngine:Material
@@ -193,8 +263,38 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: WhiteLine.001
+    second: {fileID: 2100000, guid: a06a8182b3e37f4409d8c3bba15f0422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteLine.002
+    second: {fileID: 2100000, guid: 3db02b3648a51d346b0a049b90a53b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Zebra
     second: {fileID: 2100000, guid: 554a39167b2eede47b90973b559dd606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra.001
+    second: {fileID: 2100000, guid: 34f16033df3518c4eb193f6fe4e9512e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra.002
+    second: {fileID: 2100000, guid: 6abdbff4403c1d849a091220625267f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra_Gradient
+    second: {fileID: 2100000, guid: 8d163377d9acc6d4b803b045c891101a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zebra_Gradient.001
+    second: {fileID: 2100000, guid: d93f261ea55053a4bafe4529b43f9ffa, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
